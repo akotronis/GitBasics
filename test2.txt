@@ -1,2 +1,3 @@
 This is the first entry in test2.txt
 Second entry still in master
+New entry from b1
